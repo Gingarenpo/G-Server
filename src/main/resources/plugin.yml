@@ -5,3 +5,10 @@ api-version: 1.19
 authors: [Gingarenpo]
 description: 当社運営サーバーで使用予定となるプラグイン
 website: https://ginren.info/G-Factory
+
+permissions:
+  gserver.*:
+    default: op
+  gserver.admin:
+    default: op
+    description: "[Denger/危険]サーバー管理に関する一切の権限を与えます。"
