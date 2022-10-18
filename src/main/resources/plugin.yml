@@ -1,0 +1,7 @@
+name: G-Server
+version: '${version}'
+main: jp.gingarenpo.gserver.GServer
+api-version: 1.19
+authors: [Gingarenpo]
+description: 当社運営サーバーで使用予定となるプラグイン
+website: https://ginren.info/G-Factory
